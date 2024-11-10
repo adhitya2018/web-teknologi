@@ -3,9 +3,10 @@
 const users = [
   {
     id: '410544b2-4001-4271-9855-fec4b6a6442a',
-    name: 'User',
-    email: 'user@nextmail.com',
+    name: 'Adhitya Ahmad Pradypta',
+    email: 'adhitya.fst@uia.ac.id',
     password: '123456',
+    role: 'superadmin',
   },
 ];
 

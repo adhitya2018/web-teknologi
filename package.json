@@ -30,5 +30,11 @@
   },
   "engines": {
     "node": ">=20.12.0"
-  }
+  },
+  "name": "nextjs-dashboard",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
